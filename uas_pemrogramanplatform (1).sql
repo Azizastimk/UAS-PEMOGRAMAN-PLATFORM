@@ -38,10 +38,10 @@ CREATE TABLE `products` (
 --
 
 INSERT INTO `products` (`id`, `nama_produk`, `harga`) VALUES
-(1, 'jeruk', 2000),
+(1, 'mangga', 2000),
 (2, 'string', 0),
 (3, 'string', 0),
-(4, 'apel', 3000),
+(4, 'melon', 3000),
 (5, 'semangka', 4000),
 (6, 'salak', 6000);
 
@@ -64,8 +64,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `password`, `nama`, `email`) VALUES
-(1, 'hshsyy', '', 'hayayaa', 'haya@gmail.com'),
-(2, 'hsatu', '', 'saty', 'yyayay@gmail.com');
+(1, 'zizi', '', 'ziza', 'aziza.basyir@gmail.com'),
+(2, 'ziza', '', 'azra', 'azraalamanah88@gmail.com');
 
 --
 -- Indexes for dumped tables
